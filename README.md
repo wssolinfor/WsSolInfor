@@ -2,6 +2,6 @@
 
 [![Logo](https://img.shields.io/badge/Copyright-a3a4a6?style=for-the-badge)](https://www.facebook.com/wssolinfor)
 
-[![Logo](https://img.shields.io/badge/%20wsincorg-a3a4a6)](https://www.facebook.com/wssolinfor)[![Logo](https://img.shields.io/badge/online-089908)](https://www.facebook.com/wssolinfor)
+[![Logo](https://img.shields.io/badge/%20wsincorg-000000)](https://www.facebook.com/wssolinfor)[![Logo](https://img.shields.io/badge/online-089908)](https://www.facebook.com/wssolinfor)
 
 [<img src="logo_tg.png" width="22">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/logo_tg.png) [![Logo](https://img.shields.io/badge/@wssolinfor-blue)](https://t.me/wssolinforbot?start=view_github)

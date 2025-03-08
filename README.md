@@ -2,4 +2,6 @@
 
 [![Logo](https://img.shields.io/badge/Copyright-dd4f00?style=for-the-badge)](https://wssolinfor.github.io/WsSolInfor/LICENSE.txt)</br>
 [![Logo](https://img.shields.io/badge/%20wsincorg-000000)](https://www.facebook.com/wssolinfor)[![Logo](https://img.shields.io/badge/online-089908)](https://www.github.com/wssolinfor)</br>
-[<img src="logo_tg.png" width="22">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/logo_tg.png) [![Logo](https://img.shields.io/badge/@wssolinfor-blue)](https://t.me/wssolinforbot?start=view_github)
+[<img src="logo_tg.png" width="22">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/logo_tg.png) [![Logo](https://img.shields.io/badge/@wssolinfor-blue)](https://t.me/wssolinforbot?start=view_github)</br>
+
+[<img src="Cofee_WS.png" width="24">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/Cofee_WS.png) [![Logo](https://img.shields.io/badge/Contribuição-F00FD1)](https://t.me/donateswsinc_bot?start=view_github)

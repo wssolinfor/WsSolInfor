@@ -5,3 +5,17 @@
 [<img src="logo_tg.png" width="22">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/logo_tg.png) [![Logo](https://img.shields.io/badge/@wssolinfor-blue)](https://t.me/wssolinforbot?start=view_github)</br>
 
 [<img src="Cofee_WS.png" width="24">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/Cofee_WS.png) [![Logo](https://img.shields.io/badge/Contribuição-FF00A1)](https://t.me/donateswsinc_bot?start=view_github)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wssolinfor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wssolinfor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://t.me/wssolinforbot"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="30" height="25" alt="telegram logo"/></a>
+  <a href="https://facebook.com/wssolinfor"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="30" height="25" alt="facebook logo"/></a>
+  <a href="https://instagram.com/wssolinfor"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo"/></a>
+  <a href="https://youtube.com/wssolinfor"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="30" height="25" alt="youtube logo"/></a>
+</div>

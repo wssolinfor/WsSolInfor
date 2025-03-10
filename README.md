@@ -7,8 +7,8 @@
 [<a href="https://t.me/donateswsinc_bot?start=view_github"><img src="Cofee_WS.png" width="24">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/Cofee_WS.png)</a> [![Logo](https://img.shields.io/badge/Contribuição-FF00A1)](https://t.me/donateswsinc_bot?start=view_github)</br></br>
 
 <div align="center">
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=wssolinfor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
--->
+  <img src="https://github-readme-stats.vercel.app/api?username=wssolinfor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wssolinfor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div></br>
 

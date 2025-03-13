@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wssolinfor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+<br>
 <div align="center">
   <a href="https://t.me/wssolinforbot"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/telegram/default.svg" width="30" height="25" alt="telegram logo"/></a>
   <a href="https://facebook.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/facebook/default.svg" width="30" height="25" alt="facebook logo"/></a>

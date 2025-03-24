@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://raw.githubusercontent.com/WsSolInfor/WsSolInfor/main/logo_wssolinfor2.png" /></p>
+<p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://raw.githubusercontent.com/WsSolInfor/WsSolInfor/main/logo_wssolinfor2.png" width="1500" /></p>
 
 [![Logo](https://img.shields.io/badge/Copyright-dd4f00?style=for-the-badge)](https://wssolinfor.github.io/WsSolInfor/LICENSE.txt)
 <br><br>[![Logo](https://img.shields.io/badge/%20wsincorg-000000)](https://www.facebook.com/wssolinfor)[![Logo](https://img.shields.io/badge/online-089908)](https://www.github.com/wssolinfor)

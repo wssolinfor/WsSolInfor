@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://cdn.winpett.com.br/statics/logo_wsinc_matriz.svg" width="160" /></p>
+<p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://cdn.winpett.com.br/statics/logo_wsinc_matriz.svg" width="120" /></p>
 
 <p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://raw.githubusercontent.com/WsSolInfor/WsSolInfor/main/logo_wssolinfor-github.png" width="1500" /></p>
 

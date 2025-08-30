@@ -13,7 +13,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wssolinfor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
 
-<img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"  />
+<a href="https://winpett.com.br"><img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"></a>
 </div>
 
 <br>

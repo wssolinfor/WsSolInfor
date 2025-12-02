@@ -8,10 +8,10 @@
 <br>[<a href="https://t.me/donateswsinc_bot?start=view_github"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/d3f50329063b2ed2f1eb1738dfcfbfeea16ebd9a/IMG/Cofee_WS.svg" width="21" hspace="2">](https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/d3f50329063b2ed2f1eb1738dfcfbfeea16ebd9a/IMG/Cofee_WS.svg)</a>[![Logo](https://img.shields.io/badge/Contribuição-FF00A1)](https://t.me/donateswsinc_bot?start=view_github)
 
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wssolinfor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wssolinfor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center" height="120">
+  
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wssolinfor&show_icons=true)
+  ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wssolinfor&layout=compact)
 
 <a href="https://winpett.com.br"><img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"></a>
 </div>

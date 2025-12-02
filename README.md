@@ -7,6 +7,7 @@
 <br>[<a href="https://t.me/wssolinforbot?start=view_github"><img src="logo_tg.png" width="22">](https://wssolinfor.github.io/WsSolInfor/WsSolInfor/main/logo_tg.png)</a> [![Logo](https://img.shields.io/badge/@wssolinfor-blue)](https://t.me/wssolinforbot?start=view_github)
 <br>[<a href="https://t.me/donateswsinc_bot?start=view_github"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/d3f50329063b2ed2f1eb1738dfcfbfeea16ebd9a/IMG/Cofee_WS.svg" width="21" hspace="2">](https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/d3f50329063b2ed2f1eb1738dfcfbfeea16ebd9a/IMG/Cofee_WS.svg)</a>[![Logo](https://img.shields.io/badge/Contribuição-FF00A1)](https://t.me/donateswsinc_bot?start=view_github)
 
+---
 <br>
 <div align="center" height="120">
   
@@ -15,6 +16,8 @@
 
 <a href="https://winpett.com.br"><img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"></a>
 </div>
+
+  ---
 
 <br>
 <div align="center">

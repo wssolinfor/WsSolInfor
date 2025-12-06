@@ -17,7 +17,7 @@
 <a href="https://winpett.com.br"><img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"></a>
 </div>
 
-  ---
+---
 
 <br>
 <div align="center">
@@ -25,4 +25,13 @@
   <a href="https://facebook.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/facebook/default.svg" width="30" height="25" alt="facebook logo"/></a>
   <a href="https://instagram.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo"/></a>
   <a href="https://youtube.com/@wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/youtube/default.svg" width="30" height="25" alt="youtube logo"/></a>
+</div><br>
+
+<div align="center">
+  
+[![1.1]][1]
+
 </div>
+
+[1.1]: https://github.com/wssolinfor/repo-wssolinfor/blob/main/IMG/icons/social/github/github_white.svg (Logo Github)
+[1]: https://github.com/wssolinfor

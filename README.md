@@ -33,5 +33,5 @@
 
 </div>
 
-[1.1]: https://github.com/wssolinfor/repo-wssolinfor/blob/main/IMG/icons/social/github/github_white.svg (WsSolInfor)
-[1]: https://github.com/wssolinfor
+[1.1]: https://raw.githubusercontent.com/wssolinfor/WsSolInfor/main/logo_wpt-gradient-gold.svg (Winpett 2026)
+[1]: https://winpett.com.br

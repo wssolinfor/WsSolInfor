@@ -20,7 +20,7 @@
 ---
 <div align="center">
 
-<a href="https://g.dev/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/WsSolInfor/heads/main/seal-gdev-wsilvacom.svg" width="60" height="60" alt="Seal Google Developers"/></a><br>
+<a href="https://g.dev/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/WsSolInfor/heads/main/seal-gdev-wssolinfor.svg" width="60" height="60" alt="Seal Google Developers"/></a><br>
 
 </div>
 

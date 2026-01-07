@@ -18,15 +18,19 @@
 </div>
 
 ---
-
-<br>
 <div align="center">
-  <a href="https://g.dev/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/0feac01e39f44544b1fe7a89e63975d79a4d799a/IMG/icons/social/google-developer/seal-google-dev.png" width="27" height="27" alt="google dev"/></a>
+
+<a href="https://g.dev/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/WsSolInfor/heads/main/seal-gdev-wsilvacom.svg" width="60" height="60" alt="Seal Google Developers"/></a><br>
+
+</div>
+
+<div align="center">
+  
   <a href="https://t.me/wssolinforbot"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/telegram/default.svg" width="30" height="25" alt="telegram logo"/></a>
   <a href="https://facebook.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/facebook/default.svg" width="30" height="25" alt="facebook logo"/></a>
   <a href="https://instagram.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo"/></a>
   <a href="https://youtube.com/@wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/youtube/default.svg" width="30" height="25" alt="youtube logo"/></a>
-</div><br>
+</div>
 
 <div align="center">
   

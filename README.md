@@ -41,12 +41,3 @@
   <a href="https://instagram.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/instagram/default.svg" width="30" height="25" alt="instagram logo"/></a>
   <a href="https://youtube.com/@wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/youtube/default.svg" width="30" height="25" alt="youtube logo"/></a>
 </div>
-
-<div align="center">
-  
-[![1.1]][1]
-
-</div>
-
-[1.1]: https://raw.githubusercontent.com/wssolinfor/WsSolInfor/main/logo_wpt-gradient-gold.svg (Winpett 2026)
-[1]: https://winpett.com.br

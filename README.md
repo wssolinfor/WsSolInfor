@@ -6,7 +6,7 @@
 
 </div>
 
-[Bem-vindo]: https://github.com/wssolinfor (WsSolInfor Profile)
+[Bem-vindo]: https://github.com/wssolinfor?tab=repositories (Repositories)
 
 <p align="center"><a href="https://t.me/wssolinforbot?start=view_github"><img src="https://raw.githubusercontent.com/WsSolInfor/WsSolInfor/main/logo_wssolinfor-github.png" width="650" height="auto" /></p>
 

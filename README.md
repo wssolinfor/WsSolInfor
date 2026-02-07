@@ -35,8 +35,7 @@
 </div>
 
 <div align="center">
-  
-  <a href="https://t.me/wssolinforbot"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/telegram/default.svg" width="25" alt="telegram logo"/></a>&#8239;
+  <a href="https://t.me/wssolinforbot"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/telegram/t_logo_official.svg" width="25" alt="telegram logo"/></a>&#8239;
   <a href="https://facebook.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/facebook/default.svg" width="25" alt="facebook logo"/></a>&nbsp;
   <a href="https://instagram.com/wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/instagram/default.svg" width="25" alt="instagram logo"/></a>&nbsp;
   <a href="https://youtube.com/@wssolinfor"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/icons/social/youtube/default.svg" width="25" alt="youtube logo"/></a>

@@ -24,7 +24,7 @@
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wssolinfor&show_icons=true)
   ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wssolinfor&layout=compact)
 
-<a href="https://winpett.com.br"><img src="https://pub-76fb82ed2f9047bbb8431c8aadeee984.r2.dev/assets/images/img/svg/gif_snake.svg" height="150" alt="statistcs"></a>
+<a href="https://winpett.com.br"><img src="https://raw.githubusercontent.com/wssolinfor/repo-wssolinfor/main/IMG/img_svg_gif_snake.svg" height="150" alt="statistcs"></a>
 </div>
 
 ---
